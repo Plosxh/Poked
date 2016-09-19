@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <bm>
+<id>1</id><prim1>Vine Whip</prim1><prim2>Razor Leaf</prim2><cha1>Solar beam</cha1><cha2>Sludge Bomb</cha2><cha3>Petal Blizzard</cha3>
+</bm>
+<bm>
+<id>2</id><prim1>Vine Whip</prim1><prim2>Razor Leaf</prim2><cha1>Solar beam</cha1><cha2>Sludge Bomb</cha2><cha3>Petal Blizzard</cha3>
+</bm>
+<bm>
+<id>3</id><prim1>Vine Whip</prim1><prim2>Razor Leaf</prim2><cha1>Solar beam</cha1><cha2>Sludge Bomb</cha2><cha3>Petal Blizzard</cha3>
+</bm>
+<bm>
+<id>4</id><prim1>Wing Attack</prim1><prim2>Ember</prim2><cha1>Fire Blast</cha1><cha2>Dragon Claw</cha2><cha3>Flamethrower</cha3>
+</bm>
+<bm>
+<id>5</id><prim1>Wing Attack</prim1><prim2>Ember</prim2><cha1>Fire Blast</cha1><cha2>Dragon Claw</cha2><cha3>Flamethrower</cha3>
+</bm>
+<bm>
+<id>6</id><prim1>Wing Attack</prim1><prim2>Ember</prim2><cha1>Fire Blast</cha1><cha2>Dragon Claw</cha2><cha3>Flamethrower</cha3>
+</bm>
+<bm>
+<id>7</id><prim1>Water Gun</prim1><prim2>Bite</prim2><cha1>Hydro Pump</cha1><cha2>Ice Beam</cha2><cha3>Flash Cannon</cha3>
+</bm>
+<bm>
+<id>8</id><prim1>Water Gun</prim1><prim2>Bite</prim2><cha1>Hydro Pump</cha1><cha2>Ice Beam</cha2><cha3>Flash Cannon</cha3>
+</bm>
+<bm>
+<id>9</id><prim1>Water Gun</prim1><prim2>Bite</prim2><cha1>Hydro Pump</cha1><cha2>Ice Beam</cha2><cha3>Flash Cannon</cha3>
+</bm>
+<bm>
+<id>10</id><prim1>Bug Bite</prim1><prim2>Confusion</prim2><cha1>Bug Buzz</cha1><cha2>Psychic</cha2><cha3>Signal Beam</cha3>
+</bm>
+<bm>
+<id>11</id><prim1>Bug Bite</prim1><prim2>Confusion</prim2><cha1>Bug Buzz</cha1><cha2>Psychic</cha2><cha3>Signal Beam</cha3>
+</bm>
+<bm>
+<id>12</id><prim1>Bug Bite</prim1><prim2>Confusion</prim2><cha1>Bug Buzz</cha1><cha2>Psychic</cha2><cha3>Signal Beam</cha3>
+</bm>
+<bm>
+<id>13</id><prim1>Bug Bite</prim1><prim2>Poison Jab</prim2><cha1>Sludge Bomb</cha1><cha2>X-Scissor</cha2><cha3>Aerial Ace</cha3>
+</bm>
+<bm>
+<id>14</id><prim1>Bug Bite</prim1><prim2>Poison Jab</prim2><cha1>Sludge Bomb</cha1><cha2>X-Scissor</cha2><cha3>Aerial Ace</cha3>
+</bm>
+<bm>
+<id>15</id><prim1>Bug Bite</prim1><prim2>Poison Jab</prim2><cha1>Sludge Bomb</cha1><cha2>X-Scissor</cha2><cha3>Aerial Ace</cha3>
+</bm>
+<bm>
+<id>16</id><prim1>Wing Attack</prim1><prim2>Steel Wing</prim2><cha1>Hurricane</cha1><cha2>Aerial Ace</cha2><cha3>Air Cutter</cha3>
+</bm>
+<bm>
+<id>17</id><prim1>Wing Attack</prim1><prim2>Steel Wing</prim2><cha1>Hurricane</cha1><cha2>Aerial Ace</cha2><cha3>Air Cutter</cha3>
+</bm>
+<bm>
+<id>18</id><prim1>Wing Attack</prim1><prim2>Steel Wing</prim2><cha1>Hurricane</cha1><cha2>Aerial Ace</cha2><cha3>Air Cutter</cha3>
+</bm>
+<bm>
+<id>19</id><prim1>Bite</prim1><prim2>Quick Attack</prim2><cha1>Hyper Beam</cha1><cha2>Hyper Fang</cha2><cha3>Dig</cha3>
+</bm>
+<bm>
+<id>20</id><prim1>Bite</prim1><prim2>Quick Attack</prim2><cha1>Hyper Beam</cha1><cha2>Hyper Fang</cha2><cha3>Dig</cha3>
+</bm>
+<bm>
+<id>21</id><prim1>Steel Wing</prim1><prim2>Peck</prim2><cha1>Drill Run</cha1><cha2>Aerial Ace</cha2><cha3>Twister</cha3>
+</bm>
+<bm>
+<id>22</id><prim1>Steel Wing</prim1><prim2>Peck</prim2><cha1>Drill Run</cha1><cha2>Aerial Ace</cha2><cha3>Twister</cha3>
+</bm>
+<bm>
+<id>23</id><prim1>Acid</prim1><prim2>Bite</prim2><cha1>Gunk Shot</cha1><cha2>Sludge Wave</cha2><cha3>Dark Pulse</cha3>
+</bm>
+<bm>
+<id>24</id><prim1>Acid</prim1><prim2>Bite</prim2><cha1>Gunk Shot</cha1><cha2>Sludge Wave</cha2><cha3>Dark Pulse</cha3>
+</bm>
+<bm>
+<id>25</id><prim1>Spark</prim1><prim2>Thunder Shock</prim2><cha1>Thunder</cha1><cha2>Thunder Punch</cha2><cha3>Brick Break</cha3>
+</bm>
+<bm>
+<id>26</id><prim1>Spark</prim1><prim2>Thunder Shock</prim2><cha1>Thunder</cha1><cha2>Thunder Punch</cha2><cha3>Brick Break</cha3>
+</bm>
+<bm>
+<id>27</id><prim1>Mud Shot</prim1><prim2>Metal Claw</prim2><cha1>Earthquake</cha1><cha2>Bulldoze</cha2><cha3>Rock Tomb</cha3>
+</bm>
+<bm>
+<id>28</id><prim1>Mud Shot</prim1><prim2>Metal Claw</prim2><cha1>Earthquake</cha1><cha2>Bulldoze</cha2><cha3>Rock Tomb</cha3>
+</bm>
+<bm>
+<id>29</id><prim1>Bite</prim1><prim2>Poison Jab</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Sludge Wave</cha3>
+</bm>
+<bm>
+<id>30</id><prim1>Bite</prim1><prim2>Poison Jab</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Sludge Wave</cha3>
+</bm>
+<bm>
+<id>31</id><prim1>Bite</prim1><prim2>Poison Jab</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Sludge Wave</cha3>
+</bm>
+<bm>
+<id>32</id><prim1>Poison Jab</prim1><prim2>Fury Cutter</prim2><cha1>Earthquake</cha1><cha2>Sludge Wave</cha2><cha3>Megahorn</cha3>
+</bm>
+<bm>
+<id>33</id><prim1>Poison Jab</prim1><prim2>Fury Cutter</prim2><cha1>Earthquake</cha1><cha2>Sludge Wave</cha2><cha3>Megahorn</cha3>
+</bm>
+<bm>
+<id>34</id><prim1>Poison Jab</prim1><prim2>Fury Cutter</prim2><cha1>Earthquake</cha1><cha2>Sludge Wave</cha2><cha3>Megahorn</cha3>
+</bm>
+<bm>
+<id>35</id><prim1>Pound</prim1><prim2>Zen Headbutt</prim2><cha1>Moonblast</cha1><cha2>Psychic</cha2><cha3>Dazzling Gleam</cha3>
+</bm>
+<bm>
+<id>36</id><prim1>Pound</prim1><prim2>Zen Headbutt</prim2><cha1>Moonblast</cha1><cha2>Psychic</cha2><cha3>Dazzling Gleam</cha3>
+</bm>
+<bm>
+<id>37</id><prim1>Ember</prim1><prim2>Feint Attack</prim2><cha1>Fire Blast</cha1><cha2>Heat Wave</cha2><cha3>Flamethrower</cha3>
+</bm>
+<bm>
+<id>38</id><prim1>Ember</prim1><prim2>Feint Attack</prim2><cha1>Fire Blast</cha1><cha2>Heat Wave</cha2><cha3>Flamethrower</cha3>
+</bm>
+<bm>
+<id>39</id><prim1>Pound</prim1><prim2>Feint Attack</prim2><cha1>Hyper Beam</cha1><cha2>Play Rough</cha2><cha3>Dazzling Gleam</cha3>
+</bm>
+<bm>
+<id>40</id><prim1>Pound</prim1><prim2>Feint Attack</prim2><cha1>Hyper Beam</cha1><cha2>Play Rough</cha2><cha3>Dazzling Gleam</cha3>
+</bm>
+<bm>
+<id>41</id><prim1>Wing Attack</prim1><prim2>Bite</prim2><cha1>Poison Fang</cha1><cha2>Air Cutter</cha2><cha3>Ominous Wind</cha3>
+</bm>
+<bm>
+<id>42</id><prim1>Wing Attack</prim1><prim2>Bite</prim2><cha1>Poison Fang</cha1><cha2>Air Cutter</cha2><cha3>Ominous Wind</cha3>
+</bm>
+<bm>
+<id>43</id><prim1>Razor Leaf</prim1><prim2>Acid</prim2><cha1>Solar beam</cha1><cha2>Petal Blizzard</cha2><cha3>Moonblast</cha3>
+</bm>
+<bm>
+<id>44</id><prim1>Razor Leaf</prim1><prim2>Acid</prim2><cha1>Solar beam</cha1><cha2>Petal Blizzard</cha2><cha3>Moonblast</cha3>
+</bm>
+<bm>
+<id>45</id><prim1>Razor Leaf</prim1><prim2>Acid</prim2><cha1>Solar beam</cha1><cha2>Petal Blizzard</cha2><cha3>Moonblast</cha3>
+</bm>
+<bm>
+<id>46</id><prim1>Bug Bite</prim1><prim2>Fury Cutter</prim2><cha1>Solar beam</cha1><cha2>X-Scissor</cha2><cha3>Cross Poison</cha3>
+</bm>
+<bm>
+<id>47</id><prim1>Bug Bite</prim1><prim2>Fury Cutter</prim2><cha1>Solar beam</cha1><cha2>X-Scissor</cha2><cha3>Cross Poison</cha3>
+</bm>
+<bm>
+<id>48</id><prim1>Bug Bite</prim1><prim2>Confusion</prim2><cha1>Bug Buzz</cha1><cha2>Psychic</cha2><cha3>Poison Fang</cha3>
+</bm>
+<bm>
+<id>49</id><prim1>Bug Bite</prim1><prim2>Confusion</prim2><cha1>Bug Buzz</cha1><cha2>Psychic</cha2><cha3>Poison Fang</cha3>
+</bm>
+<bm>
+<id>50</id><prim1>Mud Slap</prim1><prim2>Sucker Punch</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Mud Bomb</cha3>
+</bm>
+<bm>
+<id>51</id><prim1>Mud Slap</prim1><prim2>Sucker Punch</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Mud Bomb</cha3>
+</bm>
+<bm>
+<id>52</id><prim1>Scratch</prim1><prim2>Feint Attack</prim2><cha1>Play Rough</cha1><cha2>Power Gem</cha2><cha3>Night Slash</cha3>
+</bm>
+<bm>
+<id>53</id><prim1>Scratch</prim1><prim2>Feint Attack</prim2><cha1>Play Rough</cha1><cha2>Power Gem</cha2><cha3>Night Slash</cha3>
+</bm>
+<bm>
+<id>54</id><prim1>Water Gun</prim1><prim2>Confusion</prim2><cha1>Hydro Pump</cha1><cha2>Psychic</cha2><cha3>Ice Beam</cha3>
+</bm>
+<bm>
+<id>55</id><prim1>Water Gun</prim1><prim2>Confusion</prim2><cha1>Hydro Pump</cha1><cha2>Psychic</cha2><cha3>Ice Beam</cha3>
+</bm>
+<bm>
+<id>56</id><prim1>Low Kick</prim1><prim2>Karate Chop</prim2><cha1>Cross Chop</cha1><cha2>Low Sweep</cha2><cha3>Night Slash</cha3>
+</bm>
+<bm>
+<id>57</id><prim1>Low Kick</prim1><prim2>Karate Chop</prim2><cha1>Cross Chop</cha1><cha2>Low Sweep</cha2><cha3>Night Slash</cha3>
+</bm>
+<bm>
+<id>58</id><prim1>Fire Fang</prim1><prim2>Bite</prim2><cha1>Fire Blast</cha1><cha2>Flamethrower</cha2><cha3>Bulldoze</cha3>
+</bm>
+<bm>
+<id>59</id><prim1>Fire Fang</prim1><prim2>Bite</prim2><cha1>Fire Blast</cha1><cha2>Flamethrower</cha2><cha3>Bulldoze</cha3>
+</bm>
+<bm>
+<id>60</id><prim1>Bubble</prim1><prim2>Mud Shot</prim2><cha1>Hydro Pump</cha1><cha2>Submission</cha2><cha3>Ice Punch</cha3>
+</bm>
+<bm>
+<id>61</id><prim1>Bubble</prim1><prim2>Mud Shot</prim2><cha1>Hydro Pump</cha1><cha2>Submission</cha2><cha3>Ice Punch</cha3>
+</bm>
+<bm>
+<id>62</id><prim1>Bubble</prim1><prim2>Mud Shot</prim2><cha1>Hydro Pump</cha1><cha2>Submission</cha2><cha3>Ice Punch</cha3>
+</bm>
+<bm>
+<id>63</id><prim1>Psycho Cut</prim1><prim2>Confusion</prim2><cha1>Psychic</cha1><cha2>Shadow Ball</cha2><cha3>Dazzling Gleam</cha3>
+</bm>
+<bm>
+<id>64</id><prim1>Psycho Cut</prim1><prim2>Confusion</prim2><cha1>Psychic</cha1><cha2>Shadow Ball</cha2><cha3>Dazzling Gleam</cha3>
+</bm>
+<bm>
+<id>65</id><prim1>Psycho Cut</prim1><prim2>Confusion</prim2><cha1>Psychic</cha1><cha2>Shadow Ball</cha2><cha3>Dazzling Gleam</cha3>
+</bm>
+<bm>
+<id>66</id><prim1>Karate Chop</prim1><prim2>Bullet Punch</prim2><cha1>Cross Chop</cha1><cha2>Stone Edge</cha2><cha3>Submission</cha3>
+</bm>
+<bm>
+<id>67</id><prim1>Karate Chop</prim1><prim2>Bullet Punch</prim2><cha1>Cross Chop</cha1><cha2>Stone Edge</cha2><cha3>Submission</cha3>
+</bm>
+<bm>
+<id>68</id><prim1>Karate Chop</prim1><prim2>Bullet Punch</prim2><cha1>Cross Chop</cha1><cha2>Stone Edge</cha2><cha3>Submission</cha3>
+</bm>
+<bm>
+<id>69</id><prim1>Razor Leaf</prim1><prim2>Acid</prim2><cha1>Solar beam</cha1><cha2>Sludge Bomb</cha2><cha3>Leaf Blade</cha3>
+</bm>
+<bm>
+<id>70</id><prim1>Razor Leaf</prim1><prim2>Acid</prim2><cha1>Solar beam</cha1><cha2>Sludge Bomb</cha2><cha3>Leaf Blade</cha3>
+</bm>
+<bm>
+<id>71</id><prim1>Razor Leaf</prim1><prim2>Acid</prim2><cha1>Solar beam</cha1><cha2>Sludge Bomb</cha2><cha3>Leaf Blade</cha3>
+</bm>
+<bm>
+<id>72</id><prim1>Poison Jab</prim1><prim2>Acid</prim2><cha1>Hydro Pump</cha1><cha2>Sludge Wave</cha2><cha3>Blizzard</cha3>
+</bm>
+<bm>
+<id>73</id><prim1>Poison Jab</prim1><prim2>Acid</prim2><cha1>Hydro Pump</cha1><cha2>Sludge Wave</cha2><cha3>Blizzard</cha3>
+</bm>
+<bm>
+<id>74</id><prim1>Mud Slap</prim1><prim2>Rock Throw</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Ancient Power</cha3>
+</bm>
+<bm>
+<id>75</id><prim1>Mud Slap</prim1><prim2>Rock Throw</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Ancient Power</cha3>
+</bm>
+<bm>
+<id>76</id><prim1>Mud Slap</prim1><prim2>Rock Throw</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Ancient Power</cha3>
+</bm>
+<bm>
+<id>77</id><prim1>Ember</prim1><prim2>Low Kick</prim2><cha1>Fire Blast</cha1><cha2>Heat Wave</cha2><cha3>Drill Run</cha3>
+</bm>
+<bm>
+<id>78</id><prim1>Ember</prim1><prim2>Low Kick</prim2><cha1>Fire Blast</cha1><cha2>Heat Wave</cha2><cha3>Drill Run</cha3>
+</bm>
+<bm>
+<id>79</id><prim1>Water Gun</prim1><prim2>Confusion</prim2><cha1>Psychic</cha1><cha2>Ice Beam</cha2><cha3>Water Pulse</cha3>
+</bm>
+<bm>
+<id>80</id><prim1>Water Gun</prim1><prim2>Confusion</prim2><cha1>Psychic</cha1><cha2>Ice Beam</cha2><cha3>Water Pulse</cha3>
+</bm>
+<bm>
+<id>81</id><prim1>Spark</prim1><prim2>Thunder Shock</prim2><cha1>Flash Cannon</cha1><cha2>Discharge</cha2><cha3>Magnet Bomb</cha3>
+</bm>
+<bm>
+<id>82</id><prim1>Spark</prim1><prim2>Thunder Shock</prim2><cha1>Flash Cannon</cha1><cha2>Discharge</cha2><cha3>Magnet Bomb</cha3>
+</bm>
+<bm>
+<id>83</id><prim1>Cut</prim1><prim2>Fury Cutter</prim2><cha1>Leaf Blade</cha1><cha2>Aerial Ace</cha2><cha3>Air Cutter</cha3>
+</bm>
+<bm>
+<id>84</id><prim1>Feint Attack</prim1><prim2>Steel Wing</prim2><cha1>Drill Peck</cha1><cha2>Aerial Ace</cha2><cha3>Air Cutter</cha3>
+</bm>
+<bm>
+<id>85</id><prim1>Feint Attack</prim1><prim2>Steel Wing</prim2><cha1>Drill Peck</cha1><cha2>Aerial Ace</cha2><cha3>Air Cutter</cha3>
+</bm>
+<bm>
+<id>86</id><prim1>Frost Breath</prim1><prim2>Ice Shard</prim2><cha1>Blizzard</cha1><cha2>Aqua Jet</cha2><cha3>Icy Wind</cha3>
+</bm>
+<bm>
+<id>87</id><prim1>Frost Breath</prim1><prim2>Ice Shard</prim2><cha1>Blizzard</cha1><cha2>Aqua Jet</cha2><cha3>Icy Wind</cha3>
+</bm>
+<bm>
+<id>88</id><prim1>Poison Jab</prim1><prim2>Lick</prim2><cha1>Gunk Shot</cha1><cha2>Sludge Wave</cha2><cha3>Dark Pulse</cha3>
+</bm>
+<bm>
+<id>89</id><prim1>Poison Jab</prim1><prim2>Lick</prim2><cha1>Gunk Shot</cha1><cha2>Sludge Wave</cha2><cha3>Dark Pulse</cha3>
+</bm>
+<bm>
+<id>90</id><prim1>Frost Breath</prim1><prim2>Ice Shard</prim2><cha1>Blizzard</cha1><cha2>Hydro Pump</cha2><cha3>Icy Wind</cha3>
+</bm>
+<bm>
+<id>91</id><prim1>Frost Breath</prim1><prim2>Ice Shard</prim2><cha1>Blizzard</cha1><cha2>Hydro Pump</cha2><cha3>Icy Wind</cha3>
+</bm>
+<bm>
+<id>92</id><prim1>Shadow Claw</prim1><prim2>Sucker Punch</prim2><cha1>Sludge Bomb</cha1><cha2>Shadow Ball</cha2><cha3>Dark Pulse</cha3>
+</bm>
+<bm>
+<id>93</id><prim1>Shadow Claw</prim1><prim2>Sucker Punch</prim2><cha1>Sludge Bomb</cha1><cha2>Shadow Ball</cha2><cha3>Dark Pulse</cha3>
+</bm>
+<bm>
+<id>94</id><prim1>Shadow Claw</prim1><prim2>Sucker Punch</prim2><cha1>Sludge Bomb</cha1><cha2>Shadow Ball</cha2><cha3>Dark Pulse</cha3>
+</bm>
+<bm>
+<id>95</id><prim1>Rock Throw</prim1><prim2>Tackle</prim2><cha1>Stone Edge</cha1><cha2>Rock Slide</cha2><cha3>Iron Head</cha3>
+</bm>
+<bm>
+<id>96</id><prim1>Zen Headbutt</prim1><prim2>Confusion</prim2><cha1>Psychic</cha1><cha2>Psyshock</cha2><cha3>Shadow Ball</cha3>
+</bm>
+<bm>
+<id>97</id><prim1>Zen Headbutt</prim1><prim2>Confusion</prim2><cha1>Psychic</cha1><cha2>Psyshock</cha2><cha3>Shadow Ball</cha3>
+</bm>
+<bm>
+<id>98</id><prim1>Metal Claw</prim1><prim2>Mud Shot</prim2><cha1>X-Scissor</cha1><cha2>Water Pulse</cha2><cha3>Vice Grip</cha3>
+</bm>
+<bm>
+<id>99</id><prim1>Metal Claw</prim1><prim2>Mud Shot</prim2><cha1>X-Scissor</cha1><cha2>Water Pulse</cha2><cha3>Vice Grip</cha3>
+</bm>
+<bm>
+<id>100</id><prim1>Spark</prim1><prim2>Tackle</prim2><cha1>Thunderbolt</cha1><cha2>Hyper Beam</cha2><cha3>Discharge</cha3>
+</bm>
+<bm>
+<id>101</id><prim1>Spark</prim1><prim2>Tackle</prim2><cha1>Thunderbolt</cha1><cha2>Hyper Beam</cha2><cha3>Discharge</cha3>
+</bm>
+<bm>
+<id>102</id><prim1>Zen Headbutt</prim1><prim2>Confusion</prim2><cha1>Solar beam</cha1><cha2>Psychic</cha2><cha3>Seed Bomb</cha3>
+</bm>
+<bm>
+<id>103</id><prim1>Zen Headbutt</prim1><prim2>Confusion</prim2><cha1>Solar beam</cha1><cha2>Psychic</cha2><cha3>Seed Bomb</cha3>
+</bm>
+<bm>
+<id>104</id><prim1>Mud Slap</prim1><prim2>Rock Smash</prim2><cha1>Earthquake</cha1><cha2>Bone Club</cha2><cha3>Dig</cha3>
+</bm>
+<bm>
+<id>105</id><prim1>Mud Slap</prim1><prim2>Rock Smash</prim2><cha1>Earthquake</cha1><cha2>Bone Club</cha2><cha3>Dig</cha3>
+</bm>
+<bm>
+<id>106</id><prim1>Rock Smash</prim1><prim2>Low Kick</prim2><cha1>Brick Break</cha1><cha2>Stone Edge</cha2><cha3>Low Sweep</cha3>
+</bm>
+<bm>
+<id>107</id><prim1>Rock Smash</prim1><prim2>Bullet Punch</prim2><cha1>Brick Break</cha1><cha2>Thunder Punch</cha2><cha3>Fire Punch</cha3>
+</bm>
+<bm>
+<id>108</id><prim1>Lick</prim1><prim2>Zen Headbutt</prim2><cha1>Hyper Beam</cha1><cha2>Power Whip</cha2><cha3>Stomp</cha3>
+</bm>
+<bm>
+<id>109</id><prim1>Tackle</prim1><prim2></prim2><cha1>Sludge Bomb</cha1><cha2>Shadow Ball</cha2><cha3>Dark Pulse</cha3>
+</bm>
+<bm>
+<id>110</id><prim1>Tackle</prim1><prim2></prim2><cha1>Sludge Bomb</cha1><cha2>Shadow Ball</cha2><cha3>Dark Pulse</cha3>
+</bm>
+<bm>
+<id>111</id><prim1>Mud Slap</prim1><prim2>Rock Smash</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Megahorn</cha3>
+</bm>
+<bm>
+<id>112</id><prim1>Mud Slap</prim1><prim2>Rock Smash</prim2><cha1>Earthquake</cha1><cha2>Stone Edge</cha2><cha3>Megahorn</cha3>
+</bm>
+<bm>
+<id>113</id><prim1>Pound</prim1><prim2>Zen Headbutt</prim2><cha1>Hyper Beam</cha1><cha2>Psychic</cha2><cha3>Dazzling Gleam</cha3>
+</bm>
+<bm>
+<id>114</id><prim1>Vine Whip</prim1><prim2></prim2><cha1>Solar beam</cha1><cha2>Power Whip</cha2><cha3>Sludge Bomb</cha3>
+</bm>
+<bm>
+<id>115</id><prim1>Mud Slap</prim1><prim2>Low Kick</prim2><cha1>Earthquake</cha1><cha2>Brick Break</cha2><cha3>Stomp</cha3>
+</bm>
+<bm>
+<id>116</id><prim1>Water Gun</prim1><prim2>Dragon Breath</prim2><cha1>Hydro Pump</cha1><cha2>Blizzard</cha2><cha3>Dragon Pulse</cha3>
+</bm>
+<bm>
+<id>117</id><prim1>Water Gun</prim1><prim2>Dragon Breath</prim2><cha1>Hydro Pump</cha1><cha2>Blizzard</cha2><cha3>Dragon Pulse</cha3>
+</bm>
+<bm>
+<id>118</id><prim1>Poison Jab</prim1><prim2>Peck</prim2><cha1>Megahorn</cha1><cha2>Drill Run</cha2><cha3>Icy Wind</cha3>
+</bm>
+<bm>
+<id>119</id><prim1>Poison Jab</prim1><prim2>Peck</prim2><cha1>Megahorn</cha1><cha2>Drill Run</cha2><cha3>Icy Wind</cha3>
+</bm>
+<bm>
+<id>120</id><prim1>Water Gun</prim1><prim2>Tackle</prim2><cha1>Hydro Pump</cha1><cha2>Psychic</cha2><cha3>Power Gem</cha3>
+</bm>
+<bm>
+<id>121</id><prim1>Water Gun</prim1><prim2>Tackle</prim2><cha1>Hydro Pump</cha1><cha2>Psychic</cha2><cha3>Power Gem</cha3>
+</bm>
+<bm>
+<id>122</id><prim1>Zen Headbutt</prim1><prim2>Confusion</prim2><cha1>Psychic</cha1><cha2>Shadow Ball</cha2><cha3>Psybeam</cha3>
+</bm>
+<bm>
+<id>123</id><prim1>Fury Cutter</prim1><prim2>Steel Wing</prim2><cha1>Bug Buzz</cha1><cha2>X-Scissor</cha2><cha3>Night Slash</cha3>
+</bm>
+<bm>
+<id>124</id><prim1>Pound</prim1><prim2>Frost Breath</prim2><cha1>Psyshock</cha1><cha2>Ice Punch</cha2><cha3>Draining Kiss</cha3>
+</bm>
+<bm>
+<id>125</id><prim1>Thunder Shock</prim1><prim2>Low Kick</prim2><cha1>Thunder</cha1><cha2>Thunderbolt</cha2><cha3>Thunder Punch</cha3>
+</bm>
+<bm>
+<id>126</id><prim1>Ember</prim1><prim2>Karate Chop</prim2><cha1>Fire Blast</cha1><cha2>Flamethrower</cha2><cha3>Fire Punch</cha3>
+</bm>
+<bm>
+<id>127</id><prim1>Fury Cutter</prim1><prim2>Rock Smash</prim2><cha1>X-Scissor</cha1><cha2>Submission</cha2><cha3>Vice Grip</cha3>
+</bm>
+<bm>
+<id>128</id><prim1>Tackle</prim1><prim2>Zen Headbutt</prim2><cha1>Earthquake</cha1><cha2>Iron Head</cha2><cha3>Horn Attack</cha3>
+</bm>
+<bm>
+<id>129</id><prim1>Bite</prim1><prim2></prim2><cha1>Hydro Pump</cha1><cha2>Dragon Pulse</cha2><cha3>Twister</cha3>
+</bm>
+<bm>
+<id>130</id><prim1>Bite</prim1><prim2></prim2><cha1>Hydro Pump</cha1><cha2>Dragon Pulse</cha2><cha3>Twister</cha3>
+</bm>
+<bm>
+<id>131</id><prim1>Frost Breath</prim1><prim2>Ice Shard</prim2><cha1>Blizzard</cha1><cha2>Ice Beam</cha2><cha3>Dragon Pulse</cha3>
+</bm>
+<bm>
+<id>132</id><prim1>Pound</prim1><prim2></prim2><cha1>Struggle</cha1><cha2></cha2><cha3></cha3>
+</bm>
+<bm>
+<id>133</id><prim1>Water Gun</prim1><prim2></prim2><cha1>Hydro Pump</cha1><cha2>Aqua Tail</cha2><cha3>Water Pulse</cha3>
+</bm>
+<bm>
+<id>134</id><prim1>Water Gun</prim1><prim2></prim2><cha1>Hydro Pump</cha1><cha2>Aqua Tail</cha2><cha3>Water Pulse</cha3>
+</bm>
+<bm>
+<id>135</id><prim1>Thunder Shock</prim1><prim2></prim2><cha1>Thunder</cha1><cha2>Thunderbolt</cha2><cha3>Discharge</cha3>
+</bm>
+<bm>
+<id>136</id><prim1>Ember</prim1><prim2></prim2><cha1>Fire Blast</cha1><cha2>Heat Wave</cha2><cha3>Flamethrower</cha3>
+</bm>
+<bm>
+<id>137</id><prim1>Tackle</prim1><prim2>Zen Headbutt</prim2><cha1>Signal Beam</cha1><cha2>Discharge</cha2><cha3>Psybeam</cha3>
+</bm>
+<bm>
+<id>138</id><prim1>Water Gun</prim1><prim2>Mud Shot</prim2><cha1>Hydro Pump</cha1><cha2>Rock Slide</cha2><cha3>Ancient Power</cha3>
+</bm>
+<bm>
+<id>139</id><prim1>Water Gun</prim1><prim2>Mud Shot</prim2><cha1>Hydro Pump</cha1><cha2>Rock Slide</cha2><cha3>Ancient Power</cha3>
+</bm>
+<bm>
+<id>140</id><prim1>Mud Shot</prim1><prim2>Fury Cutter</prim2><cha1>Stone Edge</cha1><cha2>Water Pulse</cha2><cha3>Ancient Power</cha3>
+</bm>
+<bm>
+<id>141</id><prim1>Mud Shot</prim1><prim2>Fury Cutter</prim2><cha1>Stone Edge</cha1><cha2>Water Pulse</cha2><cha3>Ancient Power</cha3>
+</bm>
+<bm>
+<id>142</id><prim1>Bite</prim1><prim2>Steel Wing</prim2><cha1>Hyper Beam</cha1><cha2>Iron Head</cha2><cha3>Ancient Power</cha3>
+</bm>
+<bm>
+<id>143</id><prim1>Lick</prim1><prim2>Zen Headbutt</prim2><cha1>Hyper Beam</cha1><cha2>Body Slam</cha2><cha3>Earthquake</cha3>
+</bm>
+<bm>
+<id>144</id><prim1></prim1><prim2></prim2><cha1></cha1><cha2></cha2><cha3></cha3>
+</bm>
+<bm>
+<id>145</id><prim1></prim1><prim2></prim2><cha1></cha1><cha2></cha2><cha3></cha3>
+</bm>
+<bm>
+<id>146</id><prim1></prim1><prim2></prim2><cha1></cha1><cha2></cha2><cha3></cha3>
+</bm>
+<bm>
+<id>147</id><prim1>Dragon Breath</prim1><prim2>Steel Wing</prim2><cha1>Dragon Claw</cha1><cha2>Hyper Beam</cha2><cha3>Dragon Pulse</cha3>
+</bm>
+<bm>
+<id>148</id><prim1>Dragon Breath</prim1><prim2>Steel Wing</prim2><cha1>Dragon Claw</cha1><cha2>Hyper Beam</cha2><cha3>Dragon Pulse</cha3>
+</bm>
+<bm>
+<id>149</id><prim1>Dragon Breath</prim1><prim2>Steel Wing</prim2><cha1>Dragon Claw</cha1><cha2>Hyper Beam</cha2><cha3>Dragon Pulse</cha3>
+</bm>
+<bm>
+<id>150</id><prim1></prim1><prim2></prim2><cha1></cha1><cha2></cha2><cha3></cha3>
+</bm>
+<bm>
+<id>151</id><prim1></prim1><prim2></prim2><cha1></cha1><cha2></cha2><cha3></cha3>
+</bm>
+</resources>

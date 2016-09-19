@@ -1,5 +1,6 @@
 CREATE TABLE "pokemon"(
   "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "evo" VARCHAR(64) NULl,
   "nom" VARCHAR(64) NULL,
   "type" VARCHAR(64) NULL,
   "a1" VARCHAR(64) NULL,
@@ -19,7 +20,8 @@ CREATE TABLE "attaque"(
 );
 
 CREATE TABLE "inventaire"(
-  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "id" INTEGER PRIMARY KEY,
+  "evo" VARCHAR(64) NULl,
   "nom" VARCHAR(64) NULL,
   "type" INTEGER NULL,
   "a1" INTEGER NULL,
@@ -28,7 +30,6 @@ CREATE TABLE "inventaire"(
 
 CREATE TABLE "meilleurs"(
   "id" INTEGER PRIMARY KEY AUTOINCREMENT,
-  "nom" VARCHAR(64) NULL,
   "prim1" VARCHAR(64) NULL,
   "prim2" VARCHAR(64) NULL,
   "cha1" VARCHAR(64) NULL,

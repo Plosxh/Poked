@@ -1,3 +1,4 @@
+DROP TABLE "meilleurs";
 DROP TABLE "pokemon";
 DROP TABLE "inventaire";
 DROP TABLE "attaque";

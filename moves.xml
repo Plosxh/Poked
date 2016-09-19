@@ -98,7 +98,7 @@
       <id>32</id><nom>Splash</nom><type>Eau</type>
     </primary>
     <primary>
-      <id>33</id><nom>Water Gun*</nom><type>Eau</type>
+      <id>33</id><nom>Water Gun</nom><type>Eau</type>
     </primary>
     <primary>
       <id>34</id><nom>Mud Slap</nom><type>Sol</type>
@@ -419,458 +419,456 @@
     </charged>
   </move>
   <pokemon>
-    <nom>Bulbizarre</nom><type>Plante</type>
+  <evo>L</evo><nom>Bulbizarre</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>herbizarre</nom><type>Plante</type>
+  <evo>M</evo><nom>herbizarre</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>florizarre</nom><type>Plante</type>
+  <evo>H</evo><nom>florizarre</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Slameche</nom><type>Feu</type>
+  <evo>L</evo><nom>Slameche</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Reptincel</nom><type>Feu</type>
+  <evo>M</evo><nom>Reptincel</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Dracaufeu</nom><type>Feu</type>
+  <evo>H</evo><nom>Dracaufeu</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Carapuce</nom><type>Eau</type>
+  <evo>L</evo><nom>Carapuce</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Carabaf</nom><type>Eau</type>
+  <evo>M</evo><nom>Carabaf</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Tortank</nom><type>Eau</type>
+  <evo>H</evo><nom>Tortank</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Chenipan</nom><type>Insecte</type>
+  <evo>L</evo><nom>Chenipan</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Chrysacier</nom><type>Insecte</type>
+  <evo>M</evo><nom>Chrysacier</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Papilusion</nom><type>Insecte</type>
+  <evo>H</evo><nom>Papilusion</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Aspicot</nom><type>Insecte</type>
+  <evo>L</evo><nom>Aspicot</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Coconfort</nom><type>Insecte</type>
+  <evo>M</evo><nom>Coconfort</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Dardargnan</nom><type>Insecte</type>
+  <evo>H</evo><nom>Dardargnan</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Roucool</nom><type>Normal</type>
+  <evo>L</evo><nom>Roucool</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Roucoups</nom><type>Normal</type>
+  <evo>M</evo><nom>Roucoups</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Roucarnage</nom><type>Normal</type>
+  <evo>H</evo><nom>Roucarnage</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Rattata</nom><type>Normal</type>
+  <evo>M</evo><nom>Rattata</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Rattatac</nom><type>Normal</type>
+  <evo>H</evo><nom>Rattatac</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Piafabec</nom><type>Normal</type>
+  <evo>M</evo><nom>Piafabec</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Rapasdepik</nom><type>Normal</type>
+  <evo>H</evo><nom>Rapasdepik</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Abo</nom><type>Poison</type>
+  <evo>M</evo><nom>Abo</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Arbok</nom><type>Poison</type>
+  <evo>H</evo><nom>Arbok</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Pikachu</nom><type>Electricite</type>
+  <evo>M</evo><nom>Pikachu</nom><type>Electricite</type>
   </pokemon>
   <pokemon>
-    <nom>Raichu</nom><type>Electricite</type>
+  <evo>H</evo><nom>Raichu</nom><type>Electricite</type>
   </pokemon>
   <pokemon>
-    <nom>Sabelette</nom><type>Sol</type>
+  <evo>M</evo><nom>Sabelette</nom><type>Sol</type>
   </pokemon>
   <pokemon>
-    <nom>Sablereau</nom><type>Sol</type>
+  <evo>H</evo><nom>Sablereau</nom><type>Sol</type>
   </pokemon>
   <pokemon>
-    <nom>Nidoran♀</nom><type>Poison</type>
+  <evo>L</evo><nom>Nidoran♀</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Nidorina</nom><type>Poison</type>
+  <evo>M</evo><nom>Nidorina</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Nidoqueen</nom><type>Poison</type>
+  <evo>H</evo><nom>Nidoqueen</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Nidoran♂</nom><type>Poison</type>
+  <evo>L</evo><nom>Nidoran♂</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Nidorino</nom><type>Poison</type>
+  <evo>M</evo><nom>Nidorino</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Nidoking</nom><type>Poison</type>
+  <evo>H</evo><nom>Nidoking</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Melofee</nom><type>Fee</type>
+  <evo>M</evo><nom>Melofee</nom><type>Fee</type>
   </pokemon>
   <pokemon>
-    <nom>Melodelfe</nom><type>Fee</type>
+  <evo>H</evo><nom>Melodelfe</nom><type>Fee</type>
   </pokemon>
   <pokemon>
-    <nom>Goupix</nom><type>Feu</type>
+  <evo>M</evo><nom>Goupix</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Feunard</nom><type>Feu</type>
+  <evo>H</evo><nom>Feunard</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Rondoudou</nom><type>Normal</type>
+  <evo>M</evo><nom>Rondoudou</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Grodoudou</nom><type>Normal</type>
+  <evo>H</evo><nom>Grodoudou</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Nosferapti</nom><type>Poison</type>
+  <evo>M</evo><nom>Nosferapti</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Nosferalto</nom><type>Poison</type>
+  <evo>H</evo><nom>Nosferalto</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Mystherbe</nom><type>Plante</type>
+  <evo>L</evo><nom>Mystherbe</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Ortide</nom><type>Plante</type>
+  <evo>M</evo><nom>Ortide</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Raflesia</nom><type>Plante</type>
+  <evo>H</evo><nom>Raflesia</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Paras</nom><type>Insecte</type>
+  <evo>M</evo><nom>Paras</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Parasect</nom><type>Insecte</type>
+  <evo>H</evo><nom>Parasect</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Mimitoss</nom><type>Insecte</type>
+  <evo>M</evo><nom>Mimitoss</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Aeromite</nom><type>Insecte</type>
+  <evo>H</evo><nom>Aeromite</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Taupiqueur</nom><type>Sol</type>
+  <evo>M</evo><nom>Taupiqueur</nom><type>Sol</type>
   </pokemon>
   <pokemon>
-    <nom>Triopikeur</nom><type>Sol</type>
+  <evo>H</evo><nom>Triopikeur</nom><type>Sol</type>
   </pokemon>
   <pokemon>
-    <nom>Miaouss</nom><type>Normal</type>
+  <evo>M</evo><nom>Miaouss</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Persian</nom><type>Normal</type>
+  <evo>H</evo><nom>Persian</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Psykokwak</nom><type>Eau</type>
+  <evo>M</evo><nom>Psykokwak</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Akwakwak</nom><type>Eau</type>
+  <evo>H</evo><nom>Akwakwak</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Ferosinge</nom><type>Combat</type>
+  <evo>M</evo><nom>Ferosinge</nom><type>Combat</type>
   </pokemon>
   <pokemon>
-    <nom>Colossinge</nom><type>Combat</type>
+  <evo>H</evo><nom>Colossinge</nom><type>Combat</type>
   </pokemon>
   <pokemon>
-    <nom>Caninos</nom><type>Feu</type>
+  <evo>M</evo><nom>Caninos</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Arcanin</nom><type>Feu</type>
+  <evo>H</evo><nom>Arcanin</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Ptitard</nom><type>Eau</type>
+  <evo>L</evo><nom>Ptitard</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Tetarte</nom><type>Eau</type>
+  <evo>M</evo><nom>Tetarte</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Tartard</nom><type>Eau</type>
+  <evo>H</evo><nom>Tartard</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Abra</nom><type>Psy</type>
+  <evo>L</evo><nom>Abra</nom><type>Psy</type>
   </pokemon>
   <pokemon>
-    <nom>Kadabra</nom><type>Psy</type>
+  <evo>M</evo><nom>Kadabra</nom><type>Psy</type>
   </pokemon>
   <pokemon>
-    <nom>Alakazam</nom><type>Psy</type>
+  <evo>H</evo><nom>Alakazam</nom><type>Psy</type>
   </pokemon>
   <pokemon>
-    <nom>Machop</nom><type>Combat</type>
+  <evo>L</evo><nom>Machop</nom><type>Combat</type>
   </pokemon>
   <pokemon>
-    <nom>Machopeur</nom><type>Combat</type>
+  <evo>M</evo><nom>Machopeur</nom><type>Combat</type>
   </pokemon>
   <pokemon>
-    <nom>Mackogneur</nom><type>Combat</type>
+  <evo>H</evo><nom>Mackogneur</nom><type>Combat</type>
   </pokemon>
   <pokemon>
-    <nom>Chetiflor</nom><type>Plante</type>
+  <evo>L</evo><nom>Chetiflor</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Boustiflor</nom><type>Plante</type>
+  <evo>M</evo><nom>Boustiflor</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Empiflor</nom><type>Plante</type>
+  <evo>H</evo><nom>Empiflor</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Tentacool</nom><type>Eau</type>
+  <evo>M</evo><nom>Tentacool</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Tentacruel</nom><type>Eau</type>
+  <evo>H</evo><nom>Tentacruel</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Racaillou</nom><type>Roche</type>
+  <evo>L</evo><nom>Racaillou</nom><type>Roche</type>
   </pokemon>
   <pokemon>
-    <nom>Gravalanch</nom><type>Roche</type>
+  <evo>M</evo><nom>Gravalanch</nom><type>Roche</type>
   </pokemon>
   <pokemon>
-    <nom>Grolem</nom><type>Roche</type>
+  <evo>H</evo><nom>Grolem</nom><type>Roche</type>
   </pokemon>
   <pokemon>
-    <nom>Ponyta</nom><type>Feu</type>
+  <evo>M</evo><nom>Ponyta</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Galopa</nom><type>Feu</type>
+  <evo>H</evo><nom>Galopa</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Ramoloss</nom><type>Eau</type>
+  <evo>M</evo><nom>Ramoloss</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Flagadoss</nom><type>Eau</type>
+  <evo>H</evo><nom>Flagadoss</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Magneti</nom><type>Electricite</type>
+  <evo>M</evo><nom>Magneti</nom><type>Electricite</type>
   </pokemon>
   <pokemon>
-    <nom>Magneton</nom><type>Electricite</type>
+  <evo>H</evo><nom>Magneton</nom><type>Electricite</type>
   </pokemon>
   <pokemon>
-    <nom>Canarticho</nom><type>Normal</type>
+  <evo>H</evo><nom>Canarticho</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Doduo</nom><type>Normal</type>
+  <evo>M</evo><nom>Doduo</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Dodrio</nom><type>Normal</type>
+  <evo>H</evo><nom>Dodrio</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Otaria</nom><type>Eau</type>
+  <evo>M</evo><nom>Otaria</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Lamantine</nom><type>Eau</type>
+  <evo>H</evo><nom>Lamantine</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Tadmorv</nom><type>Poison</type>
+  <evo>M</evo><nom>Tadmorv</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Grotadmorv</nom><type>Poison</type>
+  <evo>H</evo><nom>Grotadmorv</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Kokiyas</nom><type>Eau</type>
+  <evo>M</evo><nom>Kokiyas</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Crustabri</nom><type>Eau</type>
+  <evo>H</evo><nom>Crustabri</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Fantominus</nom><type>Fantome</type>
+  <evo>L</evo><nom>Fantominus</nom><type>Fantome</type>
   </pokemon>
   <pokemon>
-    <nom>Spectrum</nom><type>Fantome</type>
+  <evo>M</evo><nom>Spectrum</nom><type>Fantome</type>
   </pokemon>
   <pokemon>
-    <nom>Ectoplasma</nom><type>Fantome</type>
+  <evo>H</evo><nom>Ectoplasma</nom><type>Fantome</type>
   </pokemon>
   <pokemon>
-    <nom>Onix</nom><type>Roche</type>
+  <evo>H</evo><nom>Onix</nom><type>Roche</type>
   </pokemon>
   <pokemon>
-    <nom>Soporifik</nom><type>Psy</type>
+  <evo>M</evo><nom>Soporifik</nom><type>Psy</type>
   </pokemon>
   <pokemon>
-    <nom>Hypnomade</nom><type>Psy</type>
+  <evo>H</evo><nom>Hypnomade</nom><type>Psy</type>
   </pokemon>
   <pokemon>
-    <nom>Krabby</nom><type>Eau</type>
+  <evo>M</evo><nom>Krabby</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Krabboss</nom><type>Eau</type>
+  <evo>H</evo><nom>Krabboss</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Voltorbe</nom><type>Electricite</type>
+  <evo>M</evo><nom>Voltorbe</nom><type>Electricite</type>
   </pokemon>
   <pokemon>
-    <nom>Electrode</nom><type>Electricite</type>
+  <evo>H</evo><nom>Electrode</nom><type>Electricite</type>
   </pokemon>
   <pokemon>
-    <nom>Noeunoeuf</nom><type>Plante</type>
+  <evo>M</evo><nom>Noeunoeuf</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Noadkoko</nom><type>Plante</type>
+  <evo>H</evo><nom>Noadkoko</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Osselait</nom><type>Sol</type>
+  <evo>M</evo><nom>Osselait</nom><type>Sol</type>
   </pokemon>
   <pokemon>
-    <nom>Ossatueur</nom><type>Sol</type>
+  <evo>H</evo><nom>Ossatueur</nom><type>Sol</type>
   </pokemon>
   <pokemon>
-    <nom>Kicklee</nom><type>Combat</type>
+  <evo>H</evo><nom>Kicklee</nom><type>Combat</type>
   </pokemon>
   <pokemon>
-    <nom>Tygnon</nom><type>Combat</type>
+  <evo>H</evo><nom>Tygnon</nom><type>Combat</type>
   </pokemon>
   <pokemon>
-    <nom>Excelangue</nom><type>Normal</type>
+  <evo>H</evo><nom>Excelangue</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Smogo</nom><type>Poison</type>
+  <evo>M</evo><nom>Smogo</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Smogogo</nom><type>Poison</type>
+  <evo>H</evo><nom>Smogogo</nom><type>Poison</type>
   </pokemon>
   <pokemon>
-    <nom>Rhinocorne</nom><type>Sol</type>
+  <evo>M</evo><nom>Rhinocorne</nom><type>Sol</type>
   </pokemon>
   <pokemon>
-    <nom>Rhinoferos</nom><type>Sol</type>
+  <evo>H</evo><nom>Rhinoferos</nom><type>Sol</type>
   </pokemon>
   <pokemon>
-    <nom>Leveinard</nom><type>Normal</type>
+  <evo>H</evo><nom>Leveinard</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Saquedeneu</nom><type>Plante</type>
+  <evo>H</evo><nom>Saquedeneu</nom><type>Plante</type>
   </pokemon>
   <pokemon>
-    <nom>Kangourex</nom><type>Normal</type>
+  <evo>H</evo><nom>Kangourex</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Hypotrempe</nom><type>Eau</type>
+  <evo>M</evo><nom>Hypotrempe</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Hypocean</nom><type>Eau</type>
+  <evo>H</evo><nom>Hypocean</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Poissirene</nom><type>Eau</type>
+  <evo>M</evo><nom>Poissirene</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Poissoroy</nom><type>Eau</type>
+  <evo>H</evo><nom>Poissoroy</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Stari</nom><type>Eau</type>
+  <evo>M</evo><nom>Stari</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Staross</nom><type>Eau</type>
+  <evo>H</evo><nom>Staross</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>M.Mime</nom><type>Psy</type>
+  <evo>H</evo><nom>M.Mime</nom><type>Psy</type>
   </pokemon>
   <pokemon>
-    <nom>Insecateur</nom><type>Insecte</type>
+  <evo>H</evo><nom>Insecateur</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Lipoutou</nom><type>Glace</type>
+  <evo>H</evo><nom>Lipoutou</nom><type>Glace</type>
   </pokemon>
   <pokemon>
-    <nom>Elektek</nom><type>Electricite</type>
+  <evo>H</evo><nom>Elektek</nom><type>Electricite</type>
   </pokemon>
   <pokemon>
-    <nom>Magmar</nom><type>Feu</type>
+  <evo>H</evo><nom>Magmar</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Scarabrute</nom><type>Insecte</type>
+  <evo>H</evo><nom>Scarabrute</nom><type>Insecte</type>
   </pokemon>
   <pokemon>
-    <nom>Tauros</nom><type>Normal</type>
+  <evo>H</evo><nom>Tauros</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Magicarpe</nom><type>Eau</type>
+  <evo>M</evo><nom>Magicarpe</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Leviator</nom><type>Eau</type>
+  <evo>H</evo><nom>Leviator</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Lokhlass</nom><type>Eau</type>
+  <evo>H</evo><nom>Lokhlass</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Metamorph</nom><type>Normal</type>
+  <evo>H</evo><nom>Metamorph</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Evolie</nom><type>Normal</type>
+  <evo>M</evo><nom>Evolie</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Aquali</nom><type>Eau</type>
+  <evo>H</evo><nom>Aquali</nom><type>Eau</type>
   </pokemon>
   <pokemon>
-    <nom>Voltali</nom><type>Electricite</type>
+  <evo>H</evo><nom>Voltali</nom><type>Electricite</type>
   </pokemon>
   <pokemon>
-    <nom>Pyroli</nom><type>Feu</type>
+  <evo>H</evo><nom>Pyroli</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Porygon</nom><type>Normal</type>
+  <evo>H</evo><nom>Porygon</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Amonita</nom><type>Roche</type>
+  <evo>M</evo><nom>Amonita</nom><type>Roche</type>
   </pokemon>
   <pokemon>
-    <nom>Amonistar</nom><type>Roche</type>
+  <evo>H</evo><nom>Amonistar</nom><type>Roche</type>
   </pokemon>
   <pokemon>
-    <nom>Kabuto</nom><type>Roche</type>
+  <evo>M</evo><nom>Kabuto</nom><type>Roche</type>
   </pokemon>
   <pokemon>
-    <nom>Kabutops</nom><type>Roche</type>
+  <evo>H</evo><nom>Kabutops</nom><type>Roche</type>
   </pokemon>
   <pokemon>
-    <nom>Ptera</nom><type>Roche</type>
+  <evo>H</evo><nom>Ptera</nom><type>Roche</type>
   </pokemon>
   <pokemon>
-    <nom>Ronflex</nom><type>Normal</type>
+  <evo>H</evo><nom>Ronflex</nom><type>Normal</type>
   </pokemon>
   <pokemon>
-    <nom>Artikodin</nom><type>Glace</type>
+  <evo>H</evo><nom>Artikodin</nom><type>Glace</type>
   </pokemon>
   <pokemon>
-    <nom>Electhor</nom><type>Electricite</type>
+  <evo>H</evo><nom>Electhor</nom><type>Electricite</type>
   </pokemon>
   <pokemon>
-    <nom>Sulfura</nom><type>Feu</type>
+  <evo>H</evo><nom>Sulfura</nom><type>Feu</type>
   </pokemon>
   <pokemon>
-    <nom>Minidraco</nom><type>Dragon</type>
+  <evo>L</evo><nom>Minidraco</nom><type>Dragon</type>
   </pokemon>
   <pokemon>
-    <nom>Draco</nom><type>Dragon</type>
+  <evo>M</evo><nom>Draco</nom><type>Dragon</type>
   </pokemon>
   <pokemon>
-    <nom>Dracolosse</nom><type>Dragon</type>
+  <evo>H</evo><nom>Dracolosse</nom><type>Dragon</type>
   </pokemon>
   <pokemon>
-    <nom>Mewtow</nom><type>Psy</type>
+  <evo>H</evo><nom>Mewtow</nom><type>Psy</type>
   </pokemon>
   <pokemon>
-    <nom>Mew</nom><type>Psy</type>
-  </pokemon>
-  <pokemon>
+  <evo>H</evo><nom>Mew</nom><type>Psy</type>
   </pokemon>
 </resources>
