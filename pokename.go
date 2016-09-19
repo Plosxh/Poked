@@ -50,30 +50,35 @@ func main()  {
   monBest = getMeilleursAttaques(id)
 
 
-  fmt.Println("Attaques Principales disponibles pour ce pokemon : ")
+  fmt.Println("Attaques Principales disponibles pour ce pokemon : \n")
   getLesAttaquesPrim(monBest.prim1)
   getLesAttaquesPrim(monBest.prim2)
 
 
 
-  fmt.Println("Choisissez son attaque de base : ")
+  fmt.Println("Choisissez son attaque de base : \n")
   _,err = fmt.Scanln(&idAtt)
   setAttaquePrim(&monPoke, idAtt)
 
 
-  fmt.Println("Attaques Chargees disponibles pour ce pokemon : ")
+  fmt.Println("Attaques Chargees disponibles pour ce pokemon : \n")
   getLesAttaquesCha(monBest.cha1)
   getLesAttaquesCha(monBest.cha2)
   getLesAttaquesCha(monBest.cha3)
 
-  fmt.Println("Choisissez son attaque chargee : ")
+  fmt.Println("Choisissez son attaque chargee : \n")
   _,err = fmt.Scanln(&idAtt)
   setAttaqueCha(&monPoke, idAtt)
 
 
-  fmt.Println("ID : ",monPoke.id," | Nom : ", monPoke.name," | Contre : ",monPoke.contre," | Attaques : ",monPoke.a1," ",monPoke.a2)
+  fmt.Println("ID : ",monPoke.id," | Nom : ", monPoke.name," | Contre : ",monPoke.contre," | Attaques : ",monPoke.a1," ",monPoke.a2,"\n")
   ajoutInventaire(monPoke)
-  fmt.Println("Ajout du pokémon avec succès !")
+  fmt.Println("Ajout du pokémon avec succès !\n")
+
+  fmt.Println("Voici votre inventaire : \n")
+  getMesPokemons()
+
+  getPerfAttPokemons()
 
   /*fmt.Println("choisissez son attaque primaire : ")
   _,err = fmt.Scanlen(&a1)
@@ -337,5 +342,97 @@ func ajoutInventaire(p pokemon){
   defer db.Close()
 
         _,err =db.Exec("INSERT INTO inventaire VALUES (\""+strconv.Itoa(p.id)+"\",\""+p.name+"\",\""+p.evo+"\",\""+p.monType+"\",\""+p.a1+"\",\""+p.a2+"\")")
+
+}
+
+
+func getMesPokemons(){
+
+  //var mesPokes []pokemon
+  var unPoke pokemon
+  var monid int
+  var evo string
+  var nom string
+  var monType string
+  var att1 string
+  var att2 string
+
+
+    db, err := sql.Open("sqlite3","./pokename.db")
+    if err != nil{
+      log.Fatal(err)
+    }
+    defer db.Close()
+
+    rows, err := db.Query("select * from inventaire")
+    defer rows.Close()
+    for rows.Next(){
+        err = rows.Scan(&monid,&evo,&nom,&monType,&att1,&att2)
+        if err != nil {
+          log.Fatal(err)
+        }
+        unPoke.id = monid
+        unPoke.evo = evo
+        unPoke.name = nom
+        unPoke.monType = monType
+        unPoke.a1= att1
+        unPoke.a2 = att2
+        counter(&unPoke)
+
+        fmt.Println(unPoke)
+      }
+      fmt.Println("\n")
+
+  err = rows.Err()
+  if err != nil{
+    log.Fatal(err)
+  }
+
+}
+
+func getPerfAttPokemons(){
+
+
+  var unPoke pokemon
+  var monid int
+  var evo string
+  var nom string
+  var monType string
+  var att1 string
+  var att2 string
+
+    fmt.Println("Vos pokémons avec des attaques parfaites : \n")
+    db, err := sql.Open("sqlite3","./pokename.db")
+    if err != nil{
+      log.Fatal(err)
+    }
+    defer db.Close()
+
+    rows, err := db.Query("select * from inventaire")
+    defer rows.Close()
+    for rows.Next(){
+        err = rows.Scan(&monid,&evo,&nom,&monType,&att1,&att2)
+        if err != nil {
+          log.Fatal(err)
+        }
+        unPoke.id = monid
+        unPoke.evo = evo
+        unPoke.name = nom
+        unPoke.monType = monType
+        unPoke.a1= att1
+        unPoke.a2 = att2
+        counter(&unPoke)
+        bm := getMeilleursAttaques(unPoke.id)
+
+        if unPoke.a1 ==bm.prim1 && unPoke.a2 == bm.cha1 {
+          fmt.Println(unPoke,"\n")
+        }
+
+      }
+
+  err = rows.Err()
+  if err != nil{
+    log.Fatal(err)
+  }
 
 }
