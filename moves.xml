@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <move>
+    <primary>
+      <id>1</id><nom>Fury Cutter</nom><type>Insecte</type>
+    </primary>
+    <primary>
+      <id>2</id><nom>Insecte Bite</nom><type>Insecte</type>
+    </primary>
+    <primary>
+      <id>3</id><nom>Bite</nom><type>Tenebre</type>
+    </primary>
+    <primary>
+      <id>4</id><nom>Sucker Punch</nom><type>Tenebre</type>
+    </primary>
+    <primary>
+      <id>5</id><nom>Dragon Breath</nom><type>Dragon</type>
+    </primary>
+    <primary>
+      <id>6</id><nom>Thunder Shock</nom><type>Electricite</type>
+    </primary>
+    <primary>
+      <id>7</id><nom>Spark</nom><type>Combat</type>
+    </primary>
+    <primary>
+      <id>8</id><nom>Low Kick</nom><type>Feu</type>
+    </primary>
+    <primary>
+      <id>9</id><nom>Karate Chop</nom><type>Combat</type>
+    </primary>
+    <primary>
+      <id>10</id><nom>Ember</nom><type>Eau</type>
+    </primary>
+    <primary>
+      <id>11</id><nom>Wing Attack</nom><type>Vol</type>
+    </primary>
+    <primary>
+      <id>12</id><nom>Peck</nom><type>Vol</type>
+    </primary>
+    <primary>
+      <id>13</id><nom>Lick</nom><type>Fantôme</type>
+    </primary>
+    <primary>
+      <id>14</id><nom>Shadow Claw</nom><type>Fantôme</type>
+    </primary>
+    <primary>
+      <id>15</id><nom>Vine Whip</nom><type>Plante</type>
+    </primary>
+    <primary>
+      <id>16</id><nom>Razor Leaf</nom><type>Plante</type>
+    </primary>
+    <primary>
+      <id>17</id><nom>Mud Shot</nom><type>Sol</type>
+    </primary>
+    <primary>
+      <id>18</id><nom>Glace Shard</nom><type>Glace</type>
+    </primary>
+    <primary>
+      <id>19</id><nom>Frost Breath</nom><type>Glace</type>
+    </primary>
+    <primary>
+      <id>20</id><nom>Quick Attack</nom><type>Normal</type>
+    </primary>
+    <primary>
+      <id>21</id><nom>Scratch</nom><type>Normal</type>
+    </primary>
+    <primary>
+      <id>22</id><nom>Tackle</nom><type>Normal</type>
+    </primary>
+    <primary>
+      <id>23</id><nom>Pound</nom><type>Normal</type>
+    </primary>
+    <primary>
+      <id>24</id><nom>Cut</nom><type>Normal</type>
+    </primary>
+    <primary>
+      <id>25</id><nom>Poison Jab</nom><type>Poison</type>
+    </primary>
+  <primary>
+      <id>26</id><nom>Acid</nom><type>Poison</type>
+    </primary>
+    <primary>
+      <id>27</id><nom>Psycho Cut</nom><type>Psy</type>
+    </primary>
+    <primary>
+      <id>28</id><nom>Rock Throw</nom><type>Roche</type>
+    </primary>
+    <primary>
+      <id>29</id><nom>Metal Claw</nom><type>Acier</type>
+    </primary>
+    <primary>
+      <id>30</id><nom>Bullet Punch</nom><type>Acier</type>
+    </primary>
+    <primary>
+      <id>31</id><nom>Sol Gun</nom><type>Eau</type>
+    </primary>
+    <primary>
+      <id>32</id><nom>Splash</nom><type>Eau</type>
+    </primary>
+    <primary>
+      <id>33</id><nom>Water Gun*</nom><type>Eau</type>
+    </primary>
+    <primary>
+      <id>34</id><nom>Mud Slap</nom><type>Sol</type>
+    </primary>
+    <primary>
+      <id>35</id><nom>Zen Headbutt</nom><type>Psy</type>
+    </primary>
+    <primary>
+      <id>36</id><nom>Confusion</nom><type>Psy</type>
+    </primary>
+    <primary>
+      <id>37</id><nom>Poison Sting</nom><type>Poison</type>
+    </primary>
+    <primary>
+      <id>38</id><nom>Bubble</nom><type>Eau</type>
+    </primary>
+    <primary>
+      <id>39</id><nom>Feint Attack</nom><type>Tenebre</type>
+    </primary>
+    <primary>
+      <id>40</id><nom>Acier Wing</nom><type>Acier</type>
+    </primary>
+    <primary>
+      <id>41</id><nom>Feu Fang</nom><type>Feu</type>
+    </primary>
+    <primary>
+      <id>42</id><nom>Rock Smash</nom><type>Combat</type>
+    </primary>
+
+
+------------------------------------------------------------------------------------------
+
+
+    <charged>
+      <id>1</id><nom>Wrap</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>2</id><nom>Hyper Beam</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>3</id><nom>Tenebre Pulse</nom><type>Tenebre</type>
+    </charged>
+    <charged>
+      <id>4</id><nom>Sludge</nom><type>Poison</type>
+    </charged>
+    <charged>
+      <id>5</id><nom>VGlace Grip</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>6</id><nom>Flame Wheel</nom><type>Feu</type>
+    </charged>
+    <charged>
+      <id>7</id><nom>Megahorn</nom><type>Insecte</type>
+    </charged>
+    <charged>
+      <id>8</id><nom>Flamethrower</nom><type>Feu</type>
+    </charged>
+    <charged>
+      <id>9</id><nom>Dig</nom><type>Sol</type>
+    </charged>
+    <charged>
+      <id>10</id><nom>Cross Chop</nom><type>Combat</type>
+    </charged>
+    <charged>
+      <id>11</id><nom>Psybeam</nom><type>Psy</type>
+    </charged>
+    <charged>
+      <id>12</id><nom>Earthquake</nom><type>Sol</type>
+    </charged>
+    <charged>
+      <id>13</id><nom>Stone Edge</nom><type>Roche</type>
+    </charged>
+    <charged>
+      <id>14</id><nom>Glace Punch</nom><type>Glace</type>
+    </charged>
+    <charged>
+      <id>15</id><nom>Heart Stamp</nom><type>Psy</type>
+    </charged>
+    <charged>
+      <id>16</id><nom>Discharge</nom><type>Electricite</type>
+    </charged>
+    <charged>
+      <id>17</id><nom>Flash Cannon</nom><type>Acier</type>
+    </charged>
+    <charged>
+      <id>18</id><nom>Drill Peck</nom><type>Vol</type>
+    </charged>
+    <charged>
+      <id>19</id><nom>Glace Beam</nom><type>Glace</type>
+    </charged>
+    <charged>
+      <id>20</id><nom>Blizzard</nom><type>Glace</type>
+    </charged>
+    <charged>
+      <id>21</id><nom>Heat Wave</nom><type>Feu</type>
+    </charged>
+    <charged>
+      <id>22</id><nom>Aerial Ace</nom><type>Vol</type>
+    </charged>
+    <charged>
+      <id>23</id><nom>Drill Run</nom><type>Sol</type>
+    </charged>
+    <charged>
+      <id>24</id><nom>Petal Blizzard</nom><type>Plante</type>
+    </charged>
+    <charged>
+      <id>25</id><nom>Mega Drain</nom><type>Plante</type>
+    </charged>
+    <charged>
+      <id>26</id><nom>Insecte Buzz</nom><type>Insecte</type>
+    </charged>
+    <charged>
+      <id>27</id><nom>Poison Fang</nom><type>Poison</type>
+    </charged>
+    <charged>
+      <id>28</id><nom>Night Slash</nom><type>Tenebre</type>
+    </charged>
+    <charged>
+      <id>29</id><nom>Bubble Beam</nom><type>Eau</type>
+    </charged>
+    <charged>
+      <id>30</id><nom>Submission</nom><type>Combat</type>
+    </charged>
+    <charged>
+      <id>31</id><nom>Low Sweep</nom><type>Combat</type>
+    </charged>
+    <charged>
+      <id>32</id><nom>Aqua Jet</nom><type>Eau</type>
+    </charged>
+    <charged>
+      <id>33</id><nom>Aqua Tail</nom><type>Eau</type>
+    </charged>
+    <charged>
+      <id>34</id><nom>Seed Bomb</nom><type>Plante</type>
+    </charged>
+    <charged>
+      <id>35</id><nom>Psyshock</nom><type>Psy</type>
+    </charged>
+    <charged>
+      <id>36</id><nom>Ancient Power</nom><type>Roche</type>
+    </charged>
+    <charged>
+      <id>37</id><nom>Rock Tomb</nom><type>Roche</type>
+    </charged>
+    <charged>
+      <id>38</id><nom>Rock Slide</nom><type>Roche</type>
+    </charged>
+    <charged>
+      <id>39</id><nom>Power Gem</nom><type>Roche</type>
+    </charged>
+    <charged>
+      <id>40</id><nom>Shadow Sneak</nom><type>Fantôme</type>
+    </charged>
+    <charged>
+      <id>41</id><nom>Shadow Punch</nom><type>Fantôme</type>
+    </charged>
+    <charged>
+      <id>42</id><nom>Ominous Wind</nom><type>Fantôme</type>
+    </charged>
+    <charged>
+      <id>43</id><nom>Shadow Ball</nom><type>Fantôme</type>
+    </charged>
+    <charged>
+      <id>44</id><nom>Magnet Bomb</nom><type>Acier</type>
+    </charged>
+    <charged>
+      <id>45</id><nom>Iron Head</nom><type>Acier</type>
+    </charged>
+    <charged>
+      <id>46</id><nom>Parabolic Charge</nom><type>Electricite</type>
+    </charged>
+    <charged>
+      <id>47</id><nom>Thunder Punch</nom><type>Electricite</type>
+    </charged>
+    <charged>
+      <id>48</id><nom>Thunder</nom><type>Electricite</type>
+    </charged>
+    <charged>
+      <id>49</id><nom>Thunderbolt</nom><type>Electricite</type>
+    </charged>
+    <charged>
+      <id>50</id><nom>Twister</nom><type>Dragon</type>
+    </charged>
+    <charged>
+      <id>51</id><nom>Dragon Pulse</nom><type>Dragon</type>
+    </charged>
+    <charged>
+      <id>52</id><nom>Dragon Claw</nom><type>Dragon</type>
+    </charged>
+    <charged>
+      <id>53</id><nom>Disarming VoGlace</nom><type>Fee</type>
+    </charged>
+    <charged>
+      <id>54</id><nom>Draining Kiss</nom><type>Fee</type>
+    </charged>
+    <charged>
+      <id>55</id><nom>Dazzling Gleam</nom><type>Fee</type>
+    </charged>
+    <charged>
+      <id>56</id><nom>Moonblast</nom><type>Fee</type>
+    </charged>
+    <charged>
+      <id>57</id><nom>Play Rough</nom><type>Fee</type>
+    </charged>
+    <charged>
+      <id>58</id><nom>Cross Poison</nom><type>Poison</type>
+    </charged>
+    <charged>
+      <id>59</id><nom>Sludge Bomb</nom><type>Poison</type>
+    </charged>
+    <charged>
+      <id>60</id><nom>Sludge Wave</nom><type>Poison</type>
+    </charged>
+    <charged>
+      <id>61</id><nom>Gunk Shot</nom><type>Poison</type>
+    </charged>
+    <charged>
+      <id>62</id><nom>Bone Club</nom><type>Sol</type>
+    </charged>
+    <charged>
+      <id>63</id><nom>Bulldoze</nom><type>Sol</type>
+    </charged>
+    <charged>
+      <id>64</id><nom>Mud Bomb</nom><type>Sol</type>
+    </charged>
+    <charged>
+      <id>65</id><nom>Signal Beam</nom><type>Insecte</type>
+    </charged>
+    <charged>
+      <id>66</id><nom>X-Scissor</nom><type>Insecte</type>
+    </charged>
+    <charged>
+      <id>67</id><nom>Flame Charge</nom><type>Feu</type>
+    </charged>
+    <charged>
+      <id>68</id><nom>Flame Burst</nom><type>Feu</type>
+    </charged>
+    <charged>
+      <id>69</id><nom>Feu Blast</nom><type>Feu</type>
+    </charged>
+    <charged>
+      <id>70</id><nom>Brine</nom><type>Eau</type>
+    </charged>
+    <charged>
+      <id>71</id><nom>Eau Pulse</nom><type>Eau</type>
+    </charged>
+    <charged>
+      <id>72</id><nom>Scald</nom><type>Eau</type>
+    </charged>
+    <charged>
+      <id>73</id><nom>Hydro Pump</nom><type>Eau</type>
+    </charged>
+    <charged>
+      <id>74</id><nom>Psy</nom><type>Psy</type>
+    </charged>
+    <charged>
+      <id>75</id><nom>Psystrike</nom><type>Psy</type>
+    </charged>
+    <charged>
+      <id>76</id><nom>Icy Wind</nom><type>Glace</type>
+    </charged>
+    <charged>
+      <id>77</id><nom>Giga Drain</nom><type>Plante</type>
+    </charged>
+    <charged>
+      <id>78</id><nom>Feu Punch</nom><type>Feu</type>
+    </charged>
+    <charged>
+      <id>79</id><nom>Solar Beam</nom><type>Plante</type>
+    </charged>
+    <charged>
+      <id>80</id><nom>Leaf Blade</nom><type>Plante</type>
+    </charged>
+    <charged>
+      <id>81</id><nom>Power Whip</nom><type>Plante</type>
+    </charged>
+    <charged>
+      <id>82</id><nom>Air Cutter</nom><type>Vol</type>
+    </charged>
+    <charged>
+      <id>83</id><nom>Hurricane</nom><type>Vol</type>
+    </charged>
+    <charged>
+      <id>84</id><nom>Brick Break</nom><type>Combat</type>
+    </charged>
+    <charged>
+      <id>85</id><nom>Swift</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>86</id><nom>Horn Attack</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>87</id><nom>Stomp</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>88</id><nom>Hyper Fang</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>89</id><nom>Body Slam</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>90</id><nom>Rest</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>91</id><nom>Struggle</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>92</id><nom>Scald*</nom><type>Eau</type>
+    </charged>
+    <charged>
+      <id>93</id><nom>Hydro Pump*</nom><type>Eau</type>
+    </charged>
+    <charged>
+      <id>94</id><nom>Wrap*</nom><type>Normal</type>
+    </charged>
+    <charged>
+      <id>95</id><nom>Wrap*</nom><type>Norma</type>
+    </charged>
+  </move>
+  <pokemon>
+    <nom>Bulbizarre</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>herbizarre</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>florizarre</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Slameche</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Reptincel</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Dracaufeu</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Carapuce</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Carabaf</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Tortank</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Chenipan</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Chrysacier</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Papilusion</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Aspicot</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Coconfort</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Dardargnan</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Roucool</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Roucoups</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Roucarnage</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Rattata</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Rattatac</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Piafabec</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Rapasdepik</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Abo</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Arbok</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Pikachu</nom><type>Electricite</type>
+  </pokemon>
+  <pokemon>
+    <nom>Raichu</nom><type>Electricite</type>
+  </pokemon>
+  <pokemon>
+    <nom>Sabelette</nom><type>Sol</type>
+  </pokemon>
+  <pokemon>
+    <nom>Sablereau</nom><type>Sol</type>
+  </pokemon>
+  <pokemon>
+    <nom>Nidoran♀</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Nidorina</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Nidoqueen</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Nidoran♂</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Nidorino</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Nidoking</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Melofee</nom><type>Fee</type>
+  </pokemon>
+  <pokemon>
+    <nom>Melodelfe</nom><type>Fee</type>
+  </pokemon>
+  <pokemon>
+    <nom>Goupix</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Feunard</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Rondoudou</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Grodoudou</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Nosferapti</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Nosferalto</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Mystherbe</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Ortide</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Raflesia</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Paras</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Parasect</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Mimitoss</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Aeromite</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Taupiqueur</nom><type>Sol</type>
+  </pokemon>
+  <pokemon>
+    <nom>Triopikeur</nom><type>Sol</type>
+  </pokemon>
+  <pokemon>
+    <nom>Miaouss</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Persian</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Psykokwak</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Akwakwak</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Ferosinge</nom><type>Combat</type>
+  </pokemon>
+  <pokemon>
+    <nom>Colossinge</nom><type>Combat</type>
+  </pokemon>
+  <pokemon>
+    <nom>Caninos</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Arcanin</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Ptitard</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Tetarte</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Tartard</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Abra</nom><type>Psy</type>
+  </pokemon>
+  <pokemon>
+    <nom>Kadabra</nom><type>Psy</type>
+  </pokemon>
+  <pokemon>
+    <nom>Alakazam</nom><type>Psy</type>
+  </pokemon>
+  <pokemon>
+    <nom>Machop</nom><type>Combat</type>
+  </pokemon>
+  <pokemon>
+    <nom>Machopeur</nom><type>Combat</type>
+  </pokemon>
+  <pokemon>
+    <nom>Mackogneur</nom><type>Combat</type>
+  </pokemon>
+  <pokemon>
+    <nom>Chetiflor</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Boustiflor</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Empiflor</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Tentacool</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Tentacruel</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Racaillou</nom><type>Roche</type>
+  </pokemon>
+  <pokemon>
+    <nom>Gravalanch</nom><type>Roche</type>
+  </pokemon>
+  <pokemon>
+    <nom>Grolem</nom><type>Roche</type>
+  </pokemon>
+  <pokemon>
+    <nom>Ponyta</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Galopa</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Ramoloss</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Flagadoss</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Magneti</nom><type>Electricite</type>
+  </pokemon>
+  <pokemon>
+    <nom>Magneton</nom><type>Electricite</type>
+  </pokemon>
+  <pokemon>
+    <nom>Canarticho</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Doduo</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Dodrio</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Otaria</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Lamantine</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Tadmorv</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Grotadmorv</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Kokiyas</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Crustabri</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Fantominus</nom><type>Fantome</type>
+  </pokemon>
+  <pokemon>
+    <nom>Spectrum</nom><type>Fantome</type>
+  </pokemon>
+  <pokemon>
+    <nom>Ectoplasma</nom><type>Fantome</type>
+  </pokemon>
+  <pokemon>
+    <nom>Onix</nom><type>Roche</type>
+  </pokemon>
+  <pokemon>
+    <nom>Soporifik</nom><type>Psy</type>
+  </pokemon>
+  <pokemon>
+    <nom>Hypnomade</nom><type>Psy</type>
+  </pokemon>
+  <pokemon>
+    <nom>Krabby</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Krabboss</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Voltorbe</nom><type>Electricite</type>
+  </pokemon>
+  <pokemon>
+    <nom>Electrode</nom><type>Electricite</type>
+  </pokemon>
+  <pokemon>
+    <nom>Noeunoeuf</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Noadkoko</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Osselait</nom><type>Sol</type>
+  </pokemon>
+  <pokemon>
+    <nom>Ossatueur</nom><type>Sol</type>
+  </pokemon>
+  <pokemon>
+    <nom>Kicklee</nom><type>Combat</type>
+  </pokemon>
+  <pokemon>
+    <nom>Tygnon</nom><type>Combat</type>
+  </pokemon>
+  <pokemon>
+    <nom>Excelangue</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Smogo</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Smogogo</nom><type>Poison</type>
+  </pokemon>
+  <pokemon>
+    <nom>Rhinocorne</nom><type>Sol</type>
+  </pokemon>
+  <pokemon>
+    <nom>Rhinoferos</nom><type>Sol</type>
+  </pokemon>
+  <pokemon>
+    <nom>Leveinard</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Saquedeneu</nom><type>Plante</type>
+  </pokemon>
+  <pokemon>
+    <nom>Kangourex</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Hypotrempe</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Hypocean</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Poissirene</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Poissoroy</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Stari</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Staross</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>M.Mime</nom><type>Psy</type>
+  </pokemon>
+  <pokemon>
+    <nom>Insecateur</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Lipoutou</nom><type>Glace</type>
+  </pokemon>
+  <pokemon>
+    <nom>Elektek</nom><type>Electricite</type>
+  </pokemon>
+  <pokemon>
+    <nom>Magmar</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Scarabrute</nom><type>Insecte</type>
+  </pokemon>
+  <pokemon>
+    <nom>Tauros</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Magicarpe</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Leviator</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Lokhlass</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Metamorph</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Evolie</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Aquali</nom><type>Eau</type>
+  </pokemon>
+  <pokemon>
+    <nom>Voltali</nom><type>Electricite</type>
+  </pokemon>
+  <pokemon>
+    <nom>Pyroli</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Porygon</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Amonita</nom><type>Roche</type>
+  </pokemon>
+  <pokemon>
+    <nom>Amonistar</nom><type>Roche</type>
+  </pokemon>
+  <pokemon>
+    <nom>Kabuto</nom><type>Roche</type>
+  </pokemon>
+  <pokemon>
+    <nom>Kabutops</nom><type>Roche</type>
+  </pokemon>
+  <pokemon>
+    <nom>Ptera</nom><type>Roche</type>
+  </pokemon>
+  <pokemon>
+    <nom>Ronflex</nom><type>Normal</type>
+  </pokemon>
+  <pokemon>
+    <nom>Artikodin</nom><type>Glace</type>
+  </pokemon>
+  <pokemon>
+    <nom>Electhor</nom><type>Electricite</type>
+  </pokemon>
+  <pokemon>
+    <nom>Sulfura</nom><type>Feu</type>
+  </pokemon>
+  <pokemon>
+    <nom>Minidraco</nom><type>Dragon</type>
+  </pokemon>
+  <pokemon>
+    <nom>Draco</nom><type>Dragon</type>
+  </pokemon>
+  <pokemon>
+    <nom>Dracolosse</nom><type>Dragon</type>
+  </pokemon>
+  <pokemon>
+    <nom>Mewtow</nom><type>Psy</type>
+  </pokemon>
+  <pokemon>
+    <nom>Mew</nom><type>Psy</type>
+  </pokemon>
+  <pokemon>
+  </pokemon>
+</resources>

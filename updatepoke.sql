@@ -1,0 +1,12 @@
+UPDATE pokemon SET type ="Plante" WHERE type = "Grasse";
+UPDATE pokemon SET type ="Feu" WHERE type = "Fire";
+UPDATE pokemon SET type ="Eau" WHERE type = "Water";
+UPDATE pokemon SET type ="Insecte" WHERE type = "Bug";
+UPDATE pokemon SET type ="Electricite" WHERE type = "Electric";
+UPDATE pokemon SET type ="Sol" WHERE type = "Ground";
+UPDATE pokemon SET type ="Fée" WHERE type = "Fairy";
+UPDATE pokemon SET type ="Combat" WHERE type = "Fighting";
+UPDATE pokemon SET type ="Psy" WHERE type = "Psychic";
+UPDATE pokemon SET type ="Roche" WHERE type = "Rock";
+UPDATE pokemon SET type ="Fantôme" WHERE type = "Ghost";
+UPDATE pokemon SET type ="Glace" WHERE type = "Ice";

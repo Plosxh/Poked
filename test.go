@@ -1,0 +1,25 @@
+package main
+import(
+//"fmt"
+//"io/ioutil"
+//"encoding/xml"
+"database/sql"
+"log"
+_ "github.com/mattn/go-sqlite3"
+//"strconv"
+)
+
+func main()  {
+
+  db, err := sql.Open("sqlite3", "./pokename.db")
+  if err != nil {
+    log.Fatal(err)
+  }
+  defer db.Close()
+
+
+    _,err =db.ReadFile("droppoke.sql")
+
+
+return
+}
